@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdubnic2/2019-htrc-fall-workshops/master)
+
 
 # Spring 2020 HTRC Workshop materials
 Materials to support spring 2020 HTRC workshops. Includes:
